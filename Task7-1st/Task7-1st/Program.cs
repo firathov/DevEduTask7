@@ -20,7 +20,7 @@ namespace Task7_1st
             {
                 return num = num * num;
             }
-
+            else
             {
                 return num * num + (num * Sum(num, --pow));
             }
