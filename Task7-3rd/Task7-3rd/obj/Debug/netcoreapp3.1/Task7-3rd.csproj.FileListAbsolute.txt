@@ -1,0 +1,12 @@
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/bin/Debug/netcoreapp3.1/Task7-3rd.deps.json
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/bin/Debug/netcoreapp3.1/Task7-3rd.runtimeconfig.json
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/bin/Debug/netcoreapp3.1/Task7-3rd.runtimeconfig.dev.json
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/bin/Debug/netcoreapp3.1/Task7-3rd.dll
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/bin/Debug/netcoreapp3.1/Task7-3rd.pdb
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.csprojAssemblyReference.cache
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.AssemblyInfoInputs.cache
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.AssemblyInfo.cs
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.csproj.CoreCompileInputs.cache
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.dll
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.pdb
+/Users/firat/Documents/Task7/Task7-3rd/Task7-3rd/obj/Debug/netcoreapp3.1/Task7-3rd.genruntimeconfig.cache

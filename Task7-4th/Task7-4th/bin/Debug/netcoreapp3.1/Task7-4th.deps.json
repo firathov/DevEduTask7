@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task7-4th/1.0.0": {
+        "runtime": {
+          "Task7-4th.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task7-4th/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2A2BB5E2-47AF-4EBF-B4FC-BC6F37F5924D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task7-3rd/Program.cs">
+    <Files>
+      <File FileName="Task7-3rd/Program.cs" Line="26" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task7-3rd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
