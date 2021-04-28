@@ -6,15 +6,34 @@ namespace Task7_4th
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Вводите первое число");
-            EnterNum1(out int num1);
-            Console.WriteLine("Введите второе число");
-            EnterNum2(out int num2);
-            
-            BiggerOne(ref num1, num2);
+            bool changer = true;
+            int num1;
+            int num2;
+            int text;
 
-            int text = DiapSum(num1, num2);
-            Console.WriteLine($"Сумма чисел внутри данного диапазона равен {text-num2}");
+            Console.WriteLine("Вводите первое число");
+            EnterNum1(out num1);
+
+            do
+            {
+                Console.WriteLine("Введите второе число");
+                EnterNum2(out num2);
+
+                if (num1 > num2)
+                {
+                    Console.WriteLine("Первое число не может быть больше второго");
+                    changer = false;
+                }
+
+                else
+                {
+                    changer = true;
+                }
+
+                text = DiapSum(num1, num2);
+            }
+            while (changer == false);
+            Console.WriteLine($"Сумма чисел внутри данного диапазона равен {text - num2}");
             Console.ReadKey();
 
         }
@@ -22,6 +41,10 @@ namespace Task7_4th
         static int DiapSum(int num1, int num2)
         {
             if (num1 == num2)
+            {
+                return 0;
+            }
+            else if (num1 > num2)
             {
                 return 0;
             }
@@ -71,14 +94,6 @@ namespace Task7_4th
                 }
             }
             while (result == false);
-        }
-
-        static string BiggerOne (ref int num1, int num2)
-        {
-            if (num1 > num2)
-            {
-                Console.WriteLine("Первый номер не может быть больше второго");
-            }
         }
 
     }
