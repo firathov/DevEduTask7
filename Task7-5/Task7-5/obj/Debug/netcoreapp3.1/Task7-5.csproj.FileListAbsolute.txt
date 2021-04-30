@@ -10,3 +10,15 @@
 /Users/firat/Projects/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.dll
 /Users/firat/Projects/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.pdb
 /Users/firat/Projects/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.genruntimeconfig.cache
+/Users/firat/Documents/Task7/Task7-5/Task7-5/bin/Debug/netcoreapp3.1/Task7-5.deps.json
+/Users/firat/Documents/Task7/Task7-5/Task7-5/bin/Debug/netcoreapp3.1/Task7-5.runtimeconfig.json
+/Users/firat/Documents/Task7/Task7-5/Task7-5/bin/Debug/netcoreapp3.1/Task7-5.runtimeconfig.dev.json
+/Users/firat/Documents/Task7/Task7-5/Task7-5/bin/Debug/netcoreapp3.1/Task7-5.dll
+/Users/firat/Documents/Task7/Task7-5/Task7-5/bin/Debug/netcoreapp3.1/Task7-5.pdb
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.csprojAssemblyReference.cache
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.AssemblyInfoInputs.cache
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.AssemblyInfo.cs
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.csproj.CoreCompileInputs.cache
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.dll
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.pdb
+/Users/firat/Documents/Task7/Task7-5/Task7-5/obj/Debug/netcoreapp3.1/Task7-5.genruntimeconfig.cache
